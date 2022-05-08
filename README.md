@@ -1,2 +1,2 @@
 # Daily-Research-Testing
-Useful scripts used for daily research testing
+Scripts for daily research testing
